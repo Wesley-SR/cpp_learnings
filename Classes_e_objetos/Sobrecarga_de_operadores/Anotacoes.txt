@@ -1,0 +1,24 @@
+Sobrecarga de funcoes e operadores
+
+Operadores e funcoes com usos multiplos, isso significa sobrecarga.
+
+Possibilita fexibilidade para objetos
+
+x=y<<22 deslocamento a esquerda de bits
+
+-----------
+Operadores Unários
+incremento ++
+Decremento --
+
+Operadores Binários (sempre tem um argumento a menos)
+-+, -, *, /, >, +=, etc.
+
+------------
+Pre_fixado
+ - operator ++()
+
+Pos-fixado
+ - operator ++(int)
+
+
