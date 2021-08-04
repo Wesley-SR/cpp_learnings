@@ -1,4 +1,4 @@
-// Aqui deve estar todo o código executável
+// Aqui deve estar todo o cï¿½digo executï¿½vel
 
 #include <iostream>
 #include "Ponto.h"
@@ -10,7 +10,7 @@ int main(int argc, char** argv)
 {
 	{
 		Ponto P(55), P1; // Inicia atribuindo x = 55;
-		int i;	
+		int i;
 			
 		cout << "O valor de x do ponto P eh: " << P.Lerx() << endl;
 		cout << "O valor de x do ponto P1 eh:" << P1.Lerx() << endl;
