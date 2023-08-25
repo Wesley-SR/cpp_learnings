@@ -1,5 +1,5 @@
-// Aqui (arquivo.h) deve estar todas as definições e declarações
-// Colocar apenas os protótipos das funções e não funções inline
+// Aqui (arquivo.h) deve estar todas as definiï¿½ï¿½es e declaraï¿½ï¿½es
+// Colocar apenas os protï¿½tipos das funï¿½ï¿½es e nï¿½o funï¿½ï¿½es inline
 class Ponto{
 	public:
 		int Lerx();
@@ -8,7 +8,5 @@ class Ponto{
 		Ponto(int);
 		~Ponto();
 	private:
-		int x, y; // Apenas o métodos privados podem acessar
-		// essas variáveis privadas
-
+		int x, y; // Apenas os metodos privados podem acessar as variaveis privadas
 };
