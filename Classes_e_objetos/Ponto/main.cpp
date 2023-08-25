@@ -1,4 +1,4 @@
-// Aqui deve estar todo o c�digo execut�vel
+// Aqui deve estar todo o codigo executavel
 
 #include <iostream>
 #include "Ponto.h"
