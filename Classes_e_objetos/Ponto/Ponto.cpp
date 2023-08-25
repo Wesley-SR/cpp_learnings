@@ -3,12 +3,12 @@
 using namespace std;
 
 // Sobrecarga de construtores
-// Permite declaração de um mesmoobjeto de diferentes formas
+// Permite declaracao de um mesmo objeto de diferentes formas
 
 // Destrutores
-// Não pode ter valor de retorno
-// Não podem ser chamados
-// Não podem ser sobrecarregados
+// Nao pode ter valor de retorno
+// Nao podem ser chamados
+// Nao podem ser sobrecarregados
 
 Ponto::Ponto(){
 	x = 10;
